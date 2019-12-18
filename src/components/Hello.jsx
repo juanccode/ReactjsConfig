@@ -1,6 +1,6 @@
 import React from 'react'
 import '../assets/styles/App.scss'
 
-const Hello = () => <h1>Hola React js</h1>
+const Hello = () => <h3>Hola comunidad de React js, estoy muy feliz de aprender</h3>
 
 export default Hello
